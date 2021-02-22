@@ -1,11 +1,12 @@
 # Tuya 嵌入式网关产测 SDK
 
-[English](README.md) | [中文版](README_cn.md)
+[English version](README.md) | [中文版](README_cn.md)
 
 ## 介绍
 
 ### 目录结构
-<pre>.
+```shell
+.
 ├── CHANGE_LOG.md  
 ├── Makefile
 ├── README.md
@@ -22,27 +23,34 @@
         └── static
             ├── libtuya_prodtest.a
             └── libtuya_prodtest.a.stripped
-</pre>
+```
 
-### lib
+### Library
 支持动态库，静态库，strip库，默认选择静态库
 
 ## 快速开始
-### 本地编译
-`make`
+* 本地编译
 
-### 本地清除
-`make clean`
+```
+make
+```
 
-### 可执行文件
-存放在`output/bin`目录下
+* 本地清除
+
+```
+make clean
+```
+
+* 可执行文件路径
+
+    `output/bin`
 
 ## 案例参考
-详见`demo`目录
+详见 `demo` 示例
 
 ## 如何获得技术支持
 
-- 开发者中心：https://developer.tuya.com/cn/
-- 帮助中心: https://support.tuya.com/en/help
-- 技术支持工单中心: https://service.console.tuya.com
+- [开发者中心](https://developer.tuya.com/cn/)
+- [IoT平台文档中心](https://developer.tuya.com/cn/docs/iot)
+- [技术支持工单中心](https://service.console.tuya.com)
 
