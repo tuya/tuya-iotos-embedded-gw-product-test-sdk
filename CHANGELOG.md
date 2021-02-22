@@ -2,39 +2,15 @@
 
 [English](CHANGELOG.md) | [中文版](CHANGELOG_cn.md)
 
-## v2.2.7
+## v1.0.0
 
 ### Release Date
 
-2020.12.25
+2020.4.26
 
 ### Highlights
 
-- Add xxx feature
-- Support xxx
-
-### Fixed Bugs
-
-- Optimize the problem of xxx
-
-<div>
-        &copy; 2014 - 2021 Tuya Inc. All Rights Reserved.
-</div>
-
-## v2.2.0
-
-### Release Date
-
-2020.12.25
-
-### Highlights
-
-- Add xxx feature
-- Support xxx
-
-### Fixed Bugs
-
-- Optimize the problem of xxx
+- The first version of the production test SDK
 
 <div>
         &copy; 2014 - 2021 Tuya Inc. All Rights Reserved.

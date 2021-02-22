@@ -2,37 +2,15 @@
 
 [English](CHANGELOG.md) | [中文版](CHANGELOG_cn.md)
 
-## v2.2.7
+# 版本1.0.0
 
 ### 发布日期
 
-2020年12月25日
+2020年4月26日
 
 ### 新增功能
 
-- 新增xxx功能
-
-### 已修复Bug
-
-- 优化xxx问题
-
-<div>
-        &copy; 2014 - 2021 Tuya Inc. All Rights Reserved.
-</div>
-
-## v2.2.0
-
-### 发布日期
-
-2020年12月25日
-
-### 新增功能
-
-- 新增xxx功能
-
-### 已修复Bug
-
-- 优化xxx问题
+- 产测SDK第一个版本
 
 <div>
         &copy; 2014 - 2021 Tuya Inc. All Rights Reserved.
