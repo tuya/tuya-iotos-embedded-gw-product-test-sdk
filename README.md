@@ -1,11 +1,13 @@
-# Tuya Embedded Gateway Product Test SDK
+# Tuya Embedded Gateway Testing SDK
 
-[English](README.md) | [中文版](README_cn.md)
+[English version](README.md) | [中文版](README_cn.md)
 
 ## Introduction
 
-### directory structure
-<pre>.
+### Directory
+
+```shell
+.
 ├── CHANGE_LOG.md  
 ├── Makefile
 ├── README.md
@@ -22,29 +24,34 @@
         └── static
             ├── libtuya_prodtest.a
             └── libtuya_prodtest.a.stripped
-</pre>
+```
 
-### lib
-Support dynamic library, static library, strip library, static library is selected by default
+### Library
 
-## Get Started
-### local compilation
-`make`
+This SDK provides the dynamic library, static library, strip library. And the static library is selected by default.
 
-### local clear
-`make clean`
+## Getting started
 
-### executable file
-stored in the `output/bin` directory
+* Command for local compilation:
 
-## Demo Reference
-See the `demo` directory for details
+    ```
+    make
+    ```
+* Command for local clear:
 
-## Support
-- Tuya Developer Webiste:https://developer.tuya.com/en/
-- Tuya Smart Help Center: https://support.tuya.com/en/help
-- Technical Support Council: https://service.console.tuya.com
+    ```
+    make clean
+    ```
+* The path of the executable file:
 
+    `output/bin`
 
+## Demo reference
 
+Please see the `demo` directory for details.
 
+## Technical support
+
+- [Tuya Developer](https://developer.tuya.com/en/)
+- [Tuya Smart Documentation](https://developer.tuya.com/en/docs/iot)
+- [Technical ticket](https://service.console.tuya.com)
